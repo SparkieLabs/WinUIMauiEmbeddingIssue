@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIMauiEmbeddingIssue (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIMauiEmbeddingIssue (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
